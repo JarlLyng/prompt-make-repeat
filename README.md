@@ -1,7 +1,3 @@
-# test [a](b)
-```text
-x
-```
 # Prompt. Make. Repeat.
 
 A two-hour workshop from **Future Product Days 2026**, Copenhagen.
