@@ -6,6 +6,8 @@ Everything you need to run the loop again on your own is on this page.
 > I didn't just learn something about AI.
 > I made something I didn't think I could make that quickly.
 
+[Download the slides (PDF, 1.2 MB)](prompt-make-repeat.pdf) — all 50, from the two-hour version.
+
 ---
 
 ## The loop
