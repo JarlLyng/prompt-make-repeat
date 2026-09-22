@@ -182,7 +182,7 @@ someone actually used it. Not what is missing. What would fail.
 Fifteen years on large, complicated digital projects at [Forte Advice](https://forteadvice.com).
 And a ton of stupid, crazy, hopefully funny and quirky ones.
 
-[iamjarl.com](https://iamjarl.com) · [Made by Human](https://iamjarl.madebyhuman.com)
+[iamjarl.com](https://iamjarl.com) · [Made by Human](https://madebyhuman.iamjarl.com)
 
 ---
 
